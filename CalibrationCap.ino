@@ -1,3 +1,4 @@
+// Reminder the pins are for an Arduino Nano
 // new code by K.-H. Kübbeler
 // CalibrateCap tries to find the value of a capacitor by measuring the load time.
 // first of all the capacitor is discharged.
